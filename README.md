@@ -1,21 +1,11 @@
 # numberWang
 
 
--- How to use --
-
-
-
-
-
+# How to use
 
 numberWang.countUpOrDown('yourDivId', startingNumber(can be negative or positive), endingNumber(can be negative or positive), secondsBetweenNumbers, effectBetweenNumbers, transitionDurationBetweenNumber, finalEndingEffect, finalEndingEffectDuration);
 
-
-
-
-
-
--- Using animate css --
+# Using animate CSS
 
 Numberwang doesn't need animatecss, however if you do want animations then it is required!
 
